@@ -1,3 +1,6 @@
 Oláááá
 
 aula git!
+
+
+git config -global user.name "Seu nome"
